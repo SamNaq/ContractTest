@@ -45,4 +45,4 @@ https://github.com/DiUS/pact-jvm/tree/master/pact-jvm-provider-junit
 
 Acknowledgments
 
-This code was inspired from Mattias Malmgren's pact testing tutorial.
+Part of the code was inspired from Mattias Malmgren's pact testing tutorial.
